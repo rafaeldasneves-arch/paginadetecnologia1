@@ -1,0 +1,2 @@
+# paginadetecnologia1
+conceitosdetecnologia
